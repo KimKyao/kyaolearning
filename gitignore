@@ -1,3 +1,6 @@
+*.pt
+.ipynb_checkpoints
+.data
 # Vim
 *~
 *.sw[p_]
